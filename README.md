@@ -33,13 +33,8 @@ My work here is mainly university coursework and team projects, alongside a few 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Stats:
-![Eirini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmmytzi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shmmytzi&layout=compact&theme=tokyonight)
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shmmytzi&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmmytzi&layout=compact&theme=tokyonight"/>
-</p>
-
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shmmytzi&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shmmytzi&layout=compact&theme=tokyonight)
 ## Projects:
 
 - 🤖 [ntua-ai-lab](https://github.com/shmmytzi/ntua-ai-lab) — search algorithms & recommendation systems
