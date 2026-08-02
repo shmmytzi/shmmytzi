@@ -51,3 +51,5 @@ My work here is mainly university coursework and team projects, alongside a few 
 - 📐 [ntua-mechanical-engineering-drawings](https://github.com/shmmytzi/ntua-mechanical-engineering-drawings) — CAD drawings
 - ⚡ [ntua-ev-charging-webapp](https://github.com/shmmytzi/ntua-ev-charging-webapp) — EV charging management system (team project)
 - ☁️ [ntua-ev-charging-saas](https://github.com/shmmytzi/ntua-ev-charging-saas) — EV charging SaaS platform, microservices architecture (team project)
+- 🌏 [ntua-programming-languages](https://github.com/shmmytzi/ntua-programming-languages) — algorithmic problems in multiple programming languages
+
