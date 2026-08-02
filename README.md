@@ -33,10 +33,12 @@ My work here is mainly university coursework and team projects, alongside a few 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Stats:
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shmmytzi&layout=compact&theme=dark&hide_border=true)
-
-![Eirini's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shmmytzi&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Eirini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmmytzi&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shmmytzi&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shmmytzi&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmmytzi&layout=compact&theme=tokyonight"/>
+</p>
 
 ## Projects:
 
